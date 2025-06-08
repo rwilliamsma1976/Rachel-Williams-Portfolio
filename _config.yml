@@ -3,7 +3,7 @@ title: Rachel Williams
 email: rwilliamsma1976@gmail.com
 url: https://rwilliamsma1976.github.io/Rachel-Williams-Portfolio
 description: "Portfolio of data analytic work samples for a junior-level data analyst"
-keywords: "Google Suite, Tableau, SQL, data analysis, portfolio, tech"
+keywords: "Google Workplace, Tableau, SQL, data analysis, portfolio, tech"
 skills: "Cleaning and Sorting Data - Visual Reports - Ethical Data Analyst"
 meta_author: Rachel Williams
 
@@ -25,10 +25,10 @@ disqus_shortname:
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: ffc8dd
-  primary-rgb: "255,200.221" #80B3FF
+  primary: 000000
+  primary-rgb: "0,0.0" 
   secondary: ffbcd5 #FDE8A
-  secondary-dark: ffa8cd #A2122F
+  secondary-dark: ffa8cd
 
 # Footer settings
 footer:
